@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Donut : ScriptableObject {
+public class Donut : MonoBehaviour {
 
 	float price;
 	Shape shape;
